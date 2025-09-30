@@ -1,4 +1,5 @@
-#NetClassroomSim v3.1.1 — Classroom Local Network Activity
+#NetClassroomSim v3.1.1 
+Classroom Local Network Activity
 
 ## 📖 Overview
 **NetClassroomSim** is a classroom simulation project designed for teaching **local networking** and **client-server interaction** in a fun and visual way.  
