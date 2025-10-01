@@ -1,1 +1,12 @@
-[]
+{
+    "students": [
+        {
+            "names": [
+                "mohamed"
+            ],
+            "ip": "::1",
+            "time": "2025-10-01 22:14:13",
+            "avatar": "avatars\/avatar5.svg"
+        }
+    ]
+}

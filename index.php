@@ -16,7 +16,8 @@
 <div class="container py-4">
   <div class="d-flex justify-content-end mb-2">
     <a class="btn btn-sm btn-outline-primary me-1" href="?lang=fr">🇫🇷 FR</a>
-    <a class="btn btn-sm btn-outline-success" href="?lang=en">🇬🇧 EN</a>
+    <a class="btn btn-sm btn-outline-success me-1" href="?lang=en">🇺🇸 EN</a>
+	<a class="btn btn-sm btn-outline-dark" href="?lang=ar">🇲🇦 AR</a>
   </div>
 
   <h1 class="mb-3 text-center animate__animated animate__bounceIn"><?= htmlspecialchars($lang[$current]['title']) ?></h1>
